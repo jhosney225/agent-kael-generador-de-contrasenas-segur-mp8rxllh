@@ -1,0 +1,6 @@
+{
+  "name": "agent-kael-generador-de-contrasenas-segur-mp8rxllh",
+  "version": "1.0.0",
+  "description": "Proyecto de Kael [Gen2]: generador de contrasenas seguras con medidor de entropia",
+  "main": "index.js"
+}
